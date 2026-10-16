@@ -14,3 +14,11 @@
 | 4 | Đào Trọng Khang | 2A202602974 |
 
 Chi tiết vai trò và phần việc: [team/TEAM.md](team/TEAM.md)
+
+## File bài làm
+
+| File | Nội dung |
+|---|---|
+| [3CE_CS13.xlsx](3CE_CS13.xlsx) | Danh sách việc và điểm ưu tiên, các mức tự động có cổng, bảng lộ trình, lịch rà soát, nội dung slide |
+| [CS13_3CE_Slide.pdf](CS13_3CE_Slide.pdf) | Slide lộ trình 1 trang cho lãnh đạo |
+| [team/TEAM.md](team/TEAM.md) | Họ tên, MSSV, phần việc từng người |
